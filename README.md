@@ -34,7 +34,10 @@ Cada tipo de veículo sobrescreve o método `calcularIpva()`.
 - Terminal (para executar via linha de comando com `javac` e `java`, se desejar)
 
 ---
+## 🧑‍💻 Autor
 
+Desenvolvido por [Kauã Henrique](https://github.com/kaua5henrick) 💻
+LinkedIn [Kauã Henrique](www.linkedin.com/in/kauã-henrique-06ba47212)
 ## ▶️ Como executar no terminal
 
 > Certifique-se de estar dentro da pasta raiz do projeto
@@ -42,8 +45,3 @@ Cada tipo de veículo sobrescreve o método `calcularIpva()`.
 ```bash
 javac application/Main.java
 java application.Main
-
-## 🧑‍💻 Autor
-
-Desenvolvido por [Kauã Henrique](https://github.com/kaua5henrick) 💻
-LinkedIn (www.linkedin.com/in/kauã-henrique-06ba47212)
