@@ -37,7 +37,8 @@ Cada tipo de veículo sobrescreve o método `calcularIpva()`.
 ## 🧑‍💻 Autor
 
 Desenvolvido por [Kauã Henrique](https://github.com/kaua5henrick) 💻
-LinkedIn [Kauã Henrique](www.linkedin.com/in/kauã-henrique-06ba47212)
+LinkedIn [Kauã Henrique](www.linkedin.com/in/kauã-henrique-06ba47212) 💻
+
 ## ▶️ Como executar no terminal
 
 > Certifique-se de estar dentro da pasta raiz do projeto
