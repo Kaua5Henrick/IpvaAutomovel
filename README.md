@@ -43,3 +43,7 @@ Cada tipo de veículo sobrescreve o método `calcularIpva()`.
 javac application/Main.java
 java application.Main
 
+## 🧑‍💻 Autor
+
+Desenvolvido por [Kauã Henrique](https://github.com/kaua5henrick) 💻
+LinkedIn (www.linkedin.com/in/kauã-henrique-06ba47212)
